@@ -1,0 +1,13 @@
+[project]
+name = "dtsyplyackov-pydecorators"
+version = "0.1.0"
+description = "Набор декораторов: validate_types, curry, memoize"
+authors = [
+    { name = "Daniil Tsyplyackov" },
+]
+requires-python = ">=3.10"
+readme = "README.md"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
