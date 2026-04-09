@@ -1,6 +1,6 @@
 [project]
 name = "dtsyplyackov-pydecorators"
-version = "0.1.0"
+version = "0.1.1"
 description = "Набор декораторов: validate_types, curry, memoize"
 authors = [
     { name = "Daniil Tsyplyackov" },

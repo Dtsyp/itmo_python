@@ -1,4 +1,4 @@
-# dtsyplyackov-decorators
+# dtsyplyackov-pydecorators
 
 Декораторы для Python: проверка типов, каррирование, мемоизация.
 
@@ -11,7 +11,7 @@ pip install --index-url https://test.pypi.org/simple/ dtsyplyackov-pydecorators
 ## Примеры
 
 ```python
-from dtsyplyackov_decorators import validate_types, curry, memoize
+from dtsyplyackov_pydecorators import validate_types, curry, memoize
 
 @validate_types
 def add(a: int, b: int) -> int:
